@@ -1,0 +1,8 @@
+noun = input("Enter a noun (person, place, or thing): ")
+adjective = input("Enter an adjective (describing word): ")
+verb = input("Enter a verb (action word): ")
+
+story = f"One day, a {adjective} {noun} decided to {verb} all the way to the moon!"
+
+print("\n--- YOUR STORY ---")
+print(story)
